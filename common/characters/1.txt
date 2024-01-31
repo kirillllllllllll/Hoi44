@@ -1,0 +1,19 @@
+characters = {
+	ISI_roman_poliva = {
+		name = ISI_roman_poliva
+		portraits = {
+			civilian = {
+				large="GFX_portrait_POL_karl_albrecht"
+			}
+		}
+		advisor{
+		slot = head_of_government
+		ledger = civilian
+		cost = -1
+		allowed = {original_tag = ISI}
+		}
+		
+		
+	}
+	
+}
